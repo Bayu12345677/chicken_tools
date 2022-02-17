@@ -10,7 +10,7 @@
 ###############################
 #  nama para contributions    #
 #                             #
-# - ...                       #
+# - polygon65                 #
 ###############################
 
 # jika anda punya sesuatu maka anda bisa melakukan tarik permintaan
