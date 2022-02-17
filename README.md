@@ -31,6 +31,6 @@ make update
 `IO.ECHO`
 `colorama`
 `urlparser`
-`HTTP.UA
+`HTTP.UA`
 
 ----------------------------
