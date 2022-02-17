@@ -21,6 +21,7 @@ make run
 ## to update
 ```makefile
 make update
+cd .
 ```
 --------------------------
 
