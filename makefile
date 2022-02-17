@@ -15,9 +15,6 @@ run:
 	chmod 0775 app.main.bash
 	./app.main.bash
 update:
-	cd ..
-	rm -rf chicken_tools
-	git clone https://github.com/Bayu12345677/chicken_tools
-	cd chicken_tools
+	bash update.sh
 	@echo
 	@echo "successfully in the update"
