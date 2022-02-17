@@ -385,7 +385,7 @@ def: sys.grab(){
 	# untuk fitur maintance nya	
 	var::command version = "curl -sL https://raw.githubusercontent.com/Bayu12345677/chicken_tools/main/files/version.txt"
 
-	if [[ "$(cat version.txt)" == "$version" ]]; then
+	if [[ "$(cat files/version.txt)" == "$version" ]]; then
 		dumy=
 	else
 		{
