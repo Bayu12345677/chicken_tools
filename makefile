@@ -14,7 +14,3 @@ setup:
 run:
 	chmod 0775 app.main.bash
 	./app.main.bash
-update:
-	bash update.sh
-	@echo
-	@echo "successfully in the update"
