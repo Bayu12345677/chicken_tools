@@ -306,7 +306,7 @@ ${un}╔╦╗┌─┐┬┌┐┌┌┬┐┌─┐┌┐┌┌─┐┌─┐
 ║║║├─┤││││ │ ├─┤││││  ├┤
 ╩ ╩┴ ┴┴┘└┘ ┴ ┴ ┴┘└┘└─┘└─┘${ij}
 ---------------------------------
-${ku}[${me}!${ku}]${pu} (make update) to update the current repository
+${ku}[${me}!${ku}]${pu} (make update and cd .) to update the current repository
 ${ku}[${me}!${ku}]${pu} current version : $(cat version.txt)
 
 ${ku}[${cy}*${ij}*${ku}]${pu} link for discussion : https://chat.whatsapp.com/GxUnM7xAJyU7A0YYcjpnL0
