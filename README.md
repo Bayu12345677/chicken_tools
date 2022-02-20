@@ -12,7 +12,7 @@
 apt update
 apt full-upgrade
 apt install ncurses-utils lynx curl
-apt install toilet figlet git
+apt install toilet figlet git tor
 git clone https://github.com/Bayu12345677/chicken_tools
 make setup
 make run
