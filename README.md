@@ -38,4 +38,12 @@ cd .
 
 ----------------------------
 
+## update
+> feature<br>
+```bash
+$ new menu web views bot
+```
+------------------------------
+
+
 - [![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=my%20youtube&color=green)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
