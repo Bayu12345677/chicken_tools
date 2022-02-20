@@ -202,7 +202,7 @@ def: app_main(){
 		clear
 	cat <<- EOF
 	╲╲┏━━┓╲╲
-	╲━╋━━╋━╲	[ chicken tools v.3 ]
+	╲━╋━━╋━╲	[ chicken tools v.5 ]
 	╲╲┃◯◯┃╲╲
 	╲┏╯┈◣┃╲╲	* author : polygon
 	╲╰━┳┳╯╲╲	* github : Bayu12345677
