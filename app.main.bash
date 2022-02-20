@@ -43,7 +43,9 @@ var::array: array_depencies = { "curl" "lynx" "ncurses-utils" "toilet" "tor" }
 for depencies in "${array_depencies[@]}"; do
 	command -v $depencies >/dev/null 2>&1 || {
 		apt-get install "${depencies}" -y > /dev/null 2>&1 || {
+                echo
 		println_err " network not found (tolong cek internet anda)"
+                echo
 		exit 32
 		}
 	}
