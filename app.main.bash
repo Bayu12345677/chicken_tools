@@ -441,7 +441,7 @@ def: sys.bot(){
 			Tulis.strN "${ku}╰━━━${un}◢◤${ku}━━━━━━━━╯${st}"
 			Tulis.strN "${ku}---------------------------------------------"
 			Tulis.strN "${cy}[${me}•${ij}•${cy}]${pu} version : 5.0"
-			Tulis.strN "${cy}[${me}•${ij}•${cy}]${pu} level   : 2"
+			Tulis.strN "${cy}[${me}•${ij}•${cy}]${pu} level   : 2.5"
 			Tulis.strN "${ku}---------------------------------------------"
 			Tulis.strN "${me}(${ku}+${me})${pu} Author : Polygon (Bayu riski A.M)"
 			Tulis.strN "${me}(${ku}+${me})${pu} github : https://github.com/Bayu12345677"
