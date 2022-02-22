@@ -487,7 +487,7 @@ def: sys.bot(){
 						elif [[ ${mode} == default ]]; then
 							__ua__2=$(Bash::Ua.Random); @ user agent
 							Tulis.str "\r${ku}[${me}•${ij}•${ku}]${pu} mode default"; echo
-								ip=$(curl --tr-encoding --socks4 127.0.0.1:9050 -s -L --referer "${__methods__[$__random]}" --header "user-agent: ${__ua__2}" --tcp-fastopen --tcp-nodelay --url "ifconfig.me")
+								ip=$(curl --tr-encoding --socks4 127.0.0.1:9050 -s -L --header "user-agent: ${__ua__2}" --tcp-fastopen --tcp-nodelay --url "ifconfig.me")
 								Tulis.strN "${cy}[${me}•${ij}•${cy}]${pu} Site    ${me}:${pu} ${site}"
 								Tulis.strN "${cy}[${me}•${ij}•${cy}]${pu} addr    ${me}:${pu} ${ip}"
 								Tulis.strN "${cy}[${me}•${ij}•${cy}]${pu} proxy   ${me}:${pu} 9050"
